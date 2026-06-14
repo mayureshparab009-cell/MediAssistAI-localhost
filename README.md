@@ -92,8 +92,7 @@ MediAssistAI/
 
 ---
 
-## 👥 Team & Submission Details
-* **Project Name:** MediAssistAI
-* **SDG Target:** Goal 3 (Good Health and Well-being)
-* **Academic Submission:** B.Tech / B.Sc Computer Science / IT Portfolio
-* **Developer:** [Your Student Name / Group Details]
+## 👥 Team & Submission Details * **Project Name:** MediAssistAI *
+**SDG Target:** Goal 3 (Good Health and Well-being) *
+**Academic Submission:** B.E COMPUTER SCIENCE AND ENGINEERING *
+**Developer:** Mayuresh Parab.
