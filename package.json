@@ -1,0 +1,23 @@
+{
+  "name": "mediassist-ai",
+  "version": "1.0.0",
+  "description": "Smart Medication Tracker & AI Health Companion addressing UN SDG 3 (Good Health and Well-being)",
+  "scripts": {
+    "install:frontend": "npm install --prefix frontend",
+    "install:backend": "pip install -r backend/requirements.txt",
+    "install:all": "npm run install:frontend && npm run install:backend",
+    "start:frontend": "npm run dev --prefix frontend",
+    "start:backend": "python backend/app.py",
+    "dev": "echo \"Please open two terminals: run 'npm run start:frontend' in one, and 'npm run start:backend' in the other.\""
+  },
+  "keywords": [
+    "health-tracker",
+    "sdg-3",
+    "ai-chatbot",
+    "medication-adherence",
+    "react",
+    "flask"
+  ],
+  "author": "MediAssistAI Team",
+  "license": "MIT"
+}
