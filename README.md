@@ -89,30 +89,6 @@ MediAssistAI/
             └── ReportGenerator.jsx
 ```
 
----
-
-## 🐙 GitHub Upload Instructions
-Use the following Git commands in your terminal to initialize and upload this project to your repository:
-
-```bash
-# Initialize git repository
-git init
-
-# Add all files
-git add .
-
-# Create initial commit
-git commit -m "Initial Commit - MediAssistAI Complete Project"
-
-# Create main branch
-git branch -M main
-
-# Add your GitHub repository link (replace URL with your own)
-git remote add origin <github-repository-url>
-
-# Push code to GitHub
-git push -u origin main
-```
 
 ---
 
